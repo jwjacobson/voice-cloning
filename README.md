@@ -27,6 +27,12 @@ A file called `result.wav` will be saved in the project directory!
 ## Editing the script (different voices, different messages)
 Four voices samples are included, with `george.mp3` selected by default. Change the value of the `audio_path` variable on line 20 of `main.py` to one of the other values (`benjamin.mp3`, `joseph.mp3`, `oliver.mp3`) to try them out.
 
+The voice samples are taken from files I had on hand where I could easily find expressive, clean excerpts, and ought to be covered by fair use:
+- `george.mp3` is Alec Guinness as George Smiley from the first episode of Smiley's People;
+- `oliver.mp3` is Anthony Bate as Oliver Lacon from the same episode;
+- `benjamin.mp3` is Avery Brooks as Benjamin Sisko from the Star Trek: Deep Space Nine episode "Far Beyond the Stars"; and
+- `joseph.mp3` is Brock Peters as Joseph Sisko from the same episode.
+
 You can also try your own samples!
 
 Edit the value of `text` on line 21 to change the recorded message.
